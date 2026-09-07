@@ -1,0 +1,274 @@
+//===========================================================================
+//
+// EconomyWarAI
+//
+//   Warcraft III AI script
+//   EconomyWar 4 Player - Custom AI
+//   Holz abbauen, Truppen produzieren, gezielt angreifen
+//
+//===========================================================================
+
+globals
+    integer                 attackWave                 = 1
+    integer                 nextDelay                  = 0
+    integer                 awGold                     = 0
+    integer                 awWood                     = 0
+    boolean                 gCond_Gold                 = false
+endglobals
+
+//***************************************************************************
+//*  Utility
+//***************************************************************************
+
+function CurrentAttackWave takes nothing returns integer
+    return attackWave
+endfunction
+
+function ResetAttackUnits takes nothing returns nothing
+    set awGold = 0
+    set awWood = 0
+    call InitAssaultGroup(  )
+endfunction
+
+function AddAttackUnit takes integer minQty, integer maxQty, integer unitID returns nothing
+    call SetAssaultGroup( minQty, maxQty, unitID )
+endfunction
+
+//***************************************************************************
+//*  Options
+//***************************************************************************
+
+function InitOptions takes nothing returns nothing
+    call SetMeleeAI(  )
+    call SetDefendPlayer( true )
+    call SetRandomPaths( true )
+    call SetTargetHeroes( false )
+    call SetPeonsRepair( true )
+    call SetUnitsFlee( true )
+    call SetGroupsFlee( true )
+    call SetWatchMegaTargets( true )
+    call SetIgnoreInjured( false )
+    call SetSlowChopping( false )
+    call SetCaptainChanges( false )
+    call SetSmartArtillery( true )
+endfunction
+
+//***************************************************************************
+//*  Conditions
+//***************************************************************************
+
+function UpdateConditions takes nothing returns nothing
+    set gCond_Gold = ( GetGold(  ) > 500 )
+endfunction
+
+//***************************************************************************
+//*  Building & Harvesting
+//***************************************************************************
+
+function BuildPriorities takes nothing returns nothing
+    // Holzf?ller produzieren (u000) bis 11
+    call SetBuildAll( BUILD_UNIT, 1,  'u000', -1 )
+    call SetBuildAll( BUILD_UNIT, 2,  'u000', -1 )
+    call SetBuildAll( BUILD_UNIT, 3,  'u000', -1 )
+    call SetBuildAll( BUILD_UNIT, 4,  'u000', -1 )
+    call SetBuildAll( BUILD_UNIT, 5,  'u000', -1 )
+    // Goldminer (h00A) produzieren
+    call SetBuildAll( BUILD_UNIT, 1,  'h00A', -1 )
+    call SetBuildAll( BUILD_UNIT, 2,  'h00A', -1 )
+    // Weitere Holzf?ller
+    call SetBuildAll( BUILD_UNIT, 6,  'u000', -1 )
+    call SetBuildAll( BUILD_UNIT, 7,  'u000', -1 )
+    call SetBuildAll( BUILD_UNIT, 8,  'u000', -1 )
+    call SetBuildAll( BUILD_UNIT, 9,  'u000', -1 )
+    call SetBuildAll( BUILD_UNIT, 10, 'u000', -1 )
+    call SetBuildAll( BUILD_UNIT, 11, 'u000', -1 )
+    // Mehr Goldminer
+    call SetBuildAll( BUILD_UNIT, 3,  'h00A', -1 )
+    call SetBuildAll( BUILD_UNIT, 4,  'h00A', -1 )
+    // Kampftruppen produzieren (h005, h007)
+    call SetBuildAll( BUILD_UNIT, 1,  'h005', -1 )
+    call SetBuildAll( BUILD_UNIT, 2,  'h005', -1 )
+    call SetBuildAll( BUILD_UNIT, 3,  'h005', -1 )
+    call SetBuildAll( BUILD_UNIT, 4,  'h005', -1 )
+    call SetBuildAll( BUILD_UNIT, 5,  'h005', -1 )
+    call SetBuildAll( BUILD_UNIT, 6,  'h005', -1 )
+    call SetBuildAll( BUILD_UNIT, 7,  'h005', -1 )
+    call SetBuildAll( BUILD_UNIT, 8,  'h005', -1 )
+    call SetBuildAll( BUILD_UNIT, 9,  'h005', -1 )
+    call SetBuildAll( BUILD_UNIT, 10, 'h005', -1 )
+    call SetBuildAll( BUILD_UNIT, 1,  'h007', -1 )
+    call SetBuildAll( BUILD_UNIT, 2,  'h007', -1 )
+    call SetBuildAll( BUILD_UNIT, 3,  'h007', -1 )
+    call SetBuildAll( BUILD_UNIT, 4,  'h007', -1 )
+    call SetBuildAll( BUILD_UNIT, 5,  'h007', -1 )
+    // Upgrades
+    call SetBuildAll( BUILD_UPGRADE, 1, 'Rhme', -1 )
+    call SetBuildAll( BUILD_UPGRADE, 1, 'Rhar', -1 )
+endfunction
+
+function HarvestPriorities takes nothing returns nothing
+    // 4 Goldminer zum Mine
+    call HarvestGold( 0, 4 )
+    // 10 Holzf?ller zum Wald
+    call HarvestWood( 0, 10 )
+endfunction
+
+function WorkerAssignment takes nothing returns nothing
+    loop
+        call UpdateConditions(  )
+        call ClearHarvestAI(  )
+        call HarvestPriorities(  )
+        call InitBuildArray(  )
+        call BuildPriorities(  )
+        call Sleep( 2 )
+    endloop
+endfunction
+
+//***************************************************************************
+//*  Attacking
+//***************************************************************************
+
+// Kein Hero in EconomyWar — pruefen ob genug Kampftruppen da sind
+function HaveMinimumAttackers takes nothing returns boolean
+    local integer fighters = GetUnitCountDone('h005')
+    local integer heavy    = GetUnitCountDone('h007')
+
+    if ( attackWave == 1 ) then
+        return ( fighters >= 5 )
+    endif
+    if ( attackWave == 2 ) then
+        return ( fighters >= 8 )
+    endif
+    // Wave 3+: grosse Angriffe
+    return ( fighters >= 10 )
+endfunction
+
+function PrepareAttackGroup takes integer groupID returns nothing
+    // Wave 1: kleiner Angriff zum Testen
+    if ( groupID == 1 ) then
+        call AddAttackUnit( 5,  8,  'h005' )
+        call AddAttackUnit( 2,  3,  'h007' )
+    endif
+    // Wave 2: mittlerer Angriff
+    if ( groupID == 2 ) then
+        call AddAttackUnit( 8,  10, 'h005' )
+        call AddAttackUnit( 3,  5,  'h007' )
+    endif
+    // Wave 3+: volle Kraft
+    if ( groupID >= 3 ) then
+        call AddAttackUnit( 10, 15, 'h005' )
+        call AddAttackUnit( 5,  7,  'h007' )
+    endif
+endfunction
+
+function PrepareForces takes nothing returns nothing
+    if ( attackWave <= 3 ) then
+        call PrepareAttackGroup( attackWave )
+    else
+        call PrepareAttackGroup( 3 )
+    endif
+endfunction
+
+// Wartezeit vor jedem Angriff
+function AttackWaveDelay takes integer inWave returns nothing
+    if ( inWave == 1 ) then
+        // Erste Angriff nach 2.5 Minuten
+        call Sleep( 150 )
+    elseif ( inWave == 2 ) then
+        call Sleep( 90 )
+    else
+        // Danach alle ~60 Sek angreifen
+        call Sleep( 60 )
+    endif
+endfunction
+
+function AttackWaveUpdate takes nothing returns nothing
+    call AttackWaveDelay( attackWave )
+    set attackWave = attackWave + 1
+    // Nach Wave 4 zurueck zu Wave 2 — kein Stop mehr
+    if ( attackWave > 4 ) then
+        set attackWave = 2
+    endif
+endfunction
+
+function AttackTarget takes unit target, boolean addAlliance returns nothing
+    if ( target == null ) then
+        return
+    endif
+    if ( addAlliance ) then
+        call SetAllianceTarget( target )
+    endif
+    call FormGroup( 3, true )
+    call AttackMoveKillA( target )
+    if ( not addAlliance ) then
+        call SetAllianceTarget( null )
+    endif
+endfunction
+
+function LaunchAttack takes nothing returns nothing
+    local unit target = null
+
+    // Eigene Basis verteidigen wenn bedroht
+    if ( TownThreatened() ) then
+        call Sleep( 5 )
+        return
+    endif
+
+    // Ziel 1: direkten Feind angreifen
+    if ( target == null ) then
+        set target = GetMegaTarget()
+    endif
+
+    // Ziel 2: feindliche Aussenposten
+    if ( target == null ) then
+        set target = GetEnemyExpansion()
+    endif
+
+    // Ziel 3: feindliche Hauptbasis suchen
+    if ( target == null ) then
+        call StartGetEnemyBase(  )
+        loop
+            exitwhen ( not WaitGetEnemyBase() )
+            call SuicideSleep( 1 )
+        endloop
+        set target = GetEnemyBase()
+    endif
+
+    if ( target != null ) then
+        call AttackTarget( target, true )
+        call AttackWaveUpdate(  )
+    else
+        call Sleep( 20 )
+    endif
+endfunction
+
+function AttackAssignment takes nothing returns nothing
+    // Startverzoegerung damit Wirtschaft erst aufgebaut wird
+    call Sleep( 120 )
+    loop
+        loop
+            call UpdateConditions(  )
+            exitwhen ( HaveMinimumAttackers() and not CaptainRetreating() )
+            call Sleep( 3 )
+        endloop
+        call RemoveInjuries(  )
+        call ResetAttackUnits(  )
+        call PrepareForces(  )
+        call LaunchAttack(  )
+    endloop
+endfunction
+
+//***************************************************************************
+//*  Main
+//***************************************************************************
+
+function main takes nothing returns nothing
+    call InitAI(  )
+    call SetPlayerName( ai_player, "EconomyWar KI" )
+    call InitOptions(  )
+
+    call Sleep( 0.1 )
+    call StartThread( function WorkerAssignment )
+    call StartThread( function AttackAssignment )
+    call PlayGame(  )
+endfunction

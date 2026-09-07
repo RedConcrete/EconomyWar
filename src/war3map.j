@@ -815,8 +815,15 @@ endfunction
 // Trigger: SpielerGruppe
 //===========================================================================
 function Trig_SpielerGruppe_Actions takes nothing returns nothing
+    local integer i = 0
     call MeleeStartingHeroLimit(  )
-    call MeleeStartingAI(  )
+    loop
+        exitwhen i > 3
+        if ( GetPlayerController(Player(i)) == MAP_CONTROL_COMPUTER ) then
+            call StartCampaignAI( Player(i), "EconomyWarAI.ai" )
+        endif
+        set i = i + 1
+    endloop
     call ForceAddPlayerSimple( Player(0), udg_Spieler1 )
     call ForceAddPlayerSimple( Player(1), udg_Spieler2 )
     call ForceAddPlayerSimple( Player(2), udg_Spieler3 )
