@@ -1574,6 +1574,76 @@ function InitTrig_Winners_Declared takes nothing returns nothing
 endfunction
 
 //===========================================================================
+// Trigger: AI Angriff — Computer-Soldaten gezielt auf feindliches h008 schicken
+//===========================================================================
+function AI_FindEnemyArcane takes player attacker returns unit
+    local group enemies
+    local unit arcane = null
+    local unit u
+    local integer i = 0
+    loop
+        exitwhen i > 3
+        if ( Player(i) != attacker and IsPlayerEnemy(Player(i), attacker) and GetPlayerSlotState(Player(i)) == PLAYER_SLOT_STATE_PLAYING ) then
+            set enemies = GetUnitsOfPlayerAndTypeId( Player(i), 'h008' )
+            set u = FirstOfGroup(enemies)
+            if ( u != null and GetWidgetLife(u) > 0.405 ) then
+                set arcane = u
+                call DestroyGroup(enemies)
+                return arcane
+            endif
+            call DestroyGroup(enemies)
+        endif
+        set i = i + 1
+    endloop
+    return null
+endfunction
+
+function AI_OrderSoldiersToAttack takes nothing returns nothing
+    local integer i = 0
+    local group soldiers
+    local unit target
+    local unit u
+    loop
+        exitwhen i > 3
+        if ( GetPlayerController(Player(i)) == MAP_CONTROL_COMPUTER and GetPlayerSlotState(Player(i)) == PLAYER_SLOT_STATE_PLAYING ) then
+            set target = AI_FindEnemyArcane(Player(i))
+            if ( target != null ) then
+                // h005 Soldaten angreifen
+                set soldiers = GetUnitsOfPlayerAndTypeId( Player(i), 'h005' )
+                loop
+                    set u = FirstOfGroup(soldiers)
+                    exitwhen u == null
+                    if ( not IsUnitInCombat(u) ) then
+                        call IssueTargetOrder( u, "attack", target )
+                    endif
+                    call GroupRemoveUnit(soldiers, u)
+                endloop
+                call DestroyGroup(soldiers)
+                // h007 Soldaten angreifen
+                set soldiers = GetUnitsOfPlayerAndTypeId( Player(i), 'h007' )
+                loop
+                    set u = FirstOfGroup(soldiers)
+                    exitwhen u == null
+                    if ( not IsUnitInCombat(u) ) then
+                        call IssueTargetOrder( u, "attack", target )
+                    endif
+                    call GroupRemoveUnit(soldiers, u)
+                endloop
+                call DestroyGroup(soldiers)
+            endif
+        endif
+        set i = i + 1
+    endloop
+endfunction
+
+//===========================================================================
+function InitTrig_AI_Angriff takes nothing returns nothing
+    local trigger t = CreateTrigger()
+    call TriggerRegisterTimerEventPeriodic( t, 30.00 )
+    call TriggerAddAction( t, function AI_OrderSoldiersToAttack )
+endfunction
+
+//===========================================================================
 function InitCustomTriggers takes nothing returns nothing
     call InitTrig_SpielerGruppe(  )
     call InitTrig_Musik(  )
@@ -1604,6 +1674,7 @@ function InitCustomTriggers takes nothing returns nothing
     call InitTrig_Check_if_Players_is_not_in_use(  )
     call InitTrig_Sichtbar(  )
     call InitTrig_Winners_Declared(  )
+    call InitTrig_AI_Angriff(  )
 endfunction
 
 //===========================================================================
