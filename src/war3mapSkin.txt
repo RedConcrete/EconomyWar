@@ -1,0 +1,5 @@
+[CustomSkin]
+ResearchComplete=Hint
+SupplyIcon=ReplaceableTextures\CommandButtons\BTNScroll.blp
+InfoPanelIconFood=ReplaceableTextures\CommandButtons\BTNScroll.blp
+

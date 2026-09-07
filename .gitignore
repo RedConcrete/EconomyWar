@@ -1,0 +1,7 @@
+*.so
+*.dll
+*.exe
+__pycache__/
+*.pyc
+build/
+*.w3x

@@ -1,0 +1,7844 @@
+﻿STRING 2
+{
+Streitmacht 1
+}
+
+STRING 4
+// Einheiten: h001 (Haupthaus), Name (Name)
+{
+Haupthaus
+}
+
+STRING 7
+{
+EconomyWar 4 Player v.1.8.5
+}
+
+STRING 8
+{
+RedConcrete
+}
+
+STRING 9
+{
+Destroy the Arkane vault from your enemies
+
+Commands:
+   -pause     / pause the game
+   -unpause / unpause the game
+
+- Contacts:
+  https://steamcommunity.com/profiles/76561198126098129/
+
+
+
+
+
+
+
+
+
+}
+
+STRING 16
+// Einheiten: h00A (Banker), Name (Name)
+{
+Banker
+}
+
+STRING 22
+// Einheiten: h004 (Labor), Name (Name)
+{
+Labor
+}
+
+STRING 26
+// Einheiten: h00B (Pionier), Name (Name)
+{
+Pionier
+}
+
+STRING 27
+// Einheiten: h00C (Mörser), Name (Name)
+{
+Mörser
+}
+
+STRING 28
+// Einheiten: h00C (Mörser), Tip (Tooltipp - Einfach)
+{
+|cffffcc00M|rörser ausbilden
+}
+
+STRING 29
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 30
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 31
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 32
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 33
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 34
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 35
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 36
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 37
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 38
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 39
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 40
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 41
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 42
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 43
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 44
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 45
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 46
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 47
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 48
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Name (Name)
+{
+Schaden +
+}
+
+STRING 49
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 50
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 51
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 52
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 53
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 54
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 55
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 56
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 57
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 58
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 59
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 60
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 61
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 62
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 63
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 64
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 65
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 106
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 107
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 108
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 109
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 110
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 111
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 112
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 113
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 114
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 115
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 116
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 117
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 118
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 119
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 120
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 121
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 122
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 123
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 124
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 125
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Name (Name)
+{
+Rüstung +
+}
+
+STRING 126
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 127
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 128
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 129
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 130
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 131
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 132
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 133
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 134
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 135
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 136
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 137
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 138
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 139
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 140
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 141
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 142
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Hotkey (Tastaturkürzel)
+{
+R
+}
+
+STRING 143
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 144
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 145
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 146
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 147
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 148
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 149
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 150
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 151
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 152
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 153
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 154
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 155
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 156
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 157
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 158
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 159
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 160
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 161
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 162
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Tip (Tooltipp)
+{
+Upgrade Rüstung
+}
+
+STRING 163
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 164
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 165
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 166
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 167
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 168
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 169
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 170
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 171
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 172
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 173
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 174
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 175
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 176
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 177
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 178
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 179
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 180
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 181
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 182
+// Ausbaustufen: Rhar (Eisen-Veredelung,Stahl-Veredelung,Mithril-Veredelung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 183
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 184
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 185
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 186
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 187
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 188
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 189
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 190
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 191
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 192
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 193
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 194
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 195
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 196
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 197
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 198
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 199
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 200
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 201
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 202
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 203
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 204
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 205
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 206
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 207
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 208
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 209
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 210
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 211
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 212
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 213
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 214
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 215
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 216
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 217
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 218
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Hotkey (Tastaturkürzel)
+{
+A
+}
+
+STRING 219
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 220
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 221
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 222
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 223
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 224
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 225
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 226
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 227
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 228
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 229
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 230
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 231
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 232
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 233
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 234
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 235
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 236
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 237
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 238
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Tip (Tooltipp)
+{
+Upgrade Verteidigung
+}
+
+STRING 239
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 240
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Name (Name)
+{
+Verteidigung +
+}
+
+STRING 241
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 242
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 243
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 244
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 245
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 246
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 247
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 248
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 249
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 250
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 251
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 252
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 253
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 254
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 255
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 256
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 257
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 258
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 259
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Rüstung für alle
+}
+
+STRING 260
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 261
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 262
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 263
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 264
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 265
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 266
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 267
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 268
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 269
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 270
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 271
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 272
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 273
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 274
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 275
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 276
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 277
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 278
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 279
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Name (Name)
+{
+Expolsion +
+}
+
+STRING 280
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 281
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 282
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 283
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 284
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 285
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 286
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 287
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 288
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 289
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 290
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 291
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 292
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 293
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 294
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 295
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 296
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Hotkey (Tastaturkürzel)
+{
+V
+}
+
+STRING 297
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 298
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 299
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 300
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 301
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 302
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 303
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 304
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 305
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 306
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 307
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 308
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 309
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 310
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 311
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 312
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 313
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 314
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 315
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 316
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Tip (Tooltipp)
+{
+Upgrade Exposion
+}
+
+STRING 317
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 318
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 319
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 320
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 321
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 322
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 323
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 324
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 325
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 326
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 327
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 328
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 329
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 330
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 331
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 332
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 333
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 334
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 335
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 336
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), Ubertip (Tooltipp - Erweitert)
+{
+Mehr Exposions schaden für alle
+}
+
+STRING 337
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Name (Name)
+{
+Schrapnell +
+}
+
+STRING 338
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Name (Name)
+{
+Schrapnell +
+}
+
+STRING 339
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Name (Name)
+{
+Schrapnell +
+}
+
+STRING 340
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Name (Name)
+{
+Schrapnell +
+}
+
+STRING 341
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Name (Name)
+{
+Schrapnell +
+}
+
+STRING 342
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Name (Name)
+{
+Schrapnell +
+}
+
+STRING 343
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Name (Name)
+{
+Schrapnell +
+}
+
+STRING 344
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Name (Name)
+{
+Schrapnell +
+}
+
+STRING 345
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Name (Name)
+{
+Schrapnell +
+}
+
+STRING 346
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Name (Name)
+{
+Schrapnell +
+}
+
+STRING 347
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 348
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 349
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 350
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 351
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 352
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 353
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 354
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 355
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Hotkey (Tastaturkürzel)
+{
+S
+}
+
+STRING 356
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Tip (Tooltipp)
+{
+Upgade Schrapnelle
+}
+
+STRING 357
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Tip (Tooltipp)
+{
+Upgade Schrapnelle
+}
+
+STRING 358
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Tip (Tooltipp)
+{
+Upgade Schrapnelle
+}
+
+STRING 359
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Tip (Tooltipp)
+{
+Upgade Schrapnelle
+}
+
+STRING 360
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Tip (Tooltipp)
+{
+Upgade Schrapnelle
+}
+
+STRING 361
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Tip (Tooltipp)
+{
+Upgade Schrapnelle
+}
+
+STRING 362
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Tip (Tooltipp)
+{
+Upgade Schrapnelle
+}
+
+STRING 363
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Tip (Tooltipp)
+{
+Upgade Schrapnelle
+}
+
+STRING 364
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Tip (Tooltipp)
+{
+Upgade Schrapnelle
+}
+
+STRING 365
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Tip (Tooltipp)
+{
+Upgade Schrapnelle
+}
+
+STRING 377
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), effect1 (Effekt 1)
+{
+ratx
+}
+
+STRING 378
+// Ausbaustufen: Rhan (Kampftierausbildung), Name (Name)
+{
+Heilige Aura
+}
+
+STRING 379
+// Ausbaustufen: Rhan (Kampftierausbildung), Hotkey (Tastaturkürzel)
+{
+H
+}
+
+STRING 381
+// Ausbaustufen: Rhan (Kampftierausbildung), Ubertip (Tooltipp - Erweitert)
+{
+Die MACHT ist mit dir 
+}
+
+STRING 382
+// Ausbaustufen: Rhan (Kampftierausbildung), Name (Name)
+{
+Heilige Aura
+}
+
+STRING 383
+// Ausbaustufen: Rhan (Kampftierausbildung), Name (Name)
+{
+Heilige Aura
+}
+
+STRING 384
+// Ausbaustufen: Rhan (Kampftierausbildung), Name (Name)
+{
+Heilige Aura
+}
+
+STRING 385
+// Ausbaustufen: Rhan (Kampftierausbildung), Name (Name)
+{
+Heilige Aura
+}
+
+STRING 386
+// Ausbaustufen: Rhan (Kampftierausbildung), Hotkey (Tastaturkürzel)
+{
+H
+}
+
+STRING 387
+// Ausbaustufen: Rhan (Kampftierausbildung), Hotkey (Tastaturkürzel)
+{
+H
+}
+
+STRING 388
+// Ausbaustufen: Rhan (Kampftierausbildung), Hotkey (Tastaturkürzel)
+{
+H
+}
+
+STRING 389
+// Ausbaustufen: Rhan (Kampftierausbildung), Hotkey (Tastaturkürzel)
+{
+H
+}
+
+STRING 390
+// Ausbaustufen: Rhan (Kampftierausbildung), Ubertip (Tooltipp - Erweitert)
+{
+Die MACHT ist mit dir 
+}
+
+STRING 391
+// Ausbaustufen: Rhan (Kampftierausbildung), Ubertip (Tooltipp - Erweitert)
+{
+Die MACHT ist mit dir 
+}
+
+STRING 392
+// Ausbaustufen: Rhan (Kampftierausbildung), Ubertip (Tooltipp - Erweitert)
+{
+Die MACHT ist mit dir 
+}
+
+STRING 393
+// Ausbaustufen: Rhan (Kampftierausbildung), Ubertip (Tooltipp - Erweitert)
+{
+Die MACHT ist mit dir 
+}
+
+STRING 398
+// Einheiten: h00D (Geschütz), Name (Name)
+{
+Geschütz
+}
+
+STRING 399
+// Einheiten: h005 (Soldat), Ubertip (Tooltipp - Erweitert)
+{
+Entbehrliche Einheit
+}
+
+STRING 404
+// Fähigkeiten: A000 (Abbauen), EditorSuffix (Editor-Suffix)
+{
+ (Gold)
+}
+
+STRING 405
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 406
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 407
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 408
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 409
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 410
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 411
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 412
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 413
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 414
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 415
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 416
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 417
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 418
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 419
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 420
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 421
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 422
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 423
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 424
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 425
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 426
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 427
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 428
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 429
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 430
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 431
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 432
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 433
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 444
+// Ausbaustufen: R000 (Plündern erforschen), effect1 (Effekt 1)
+{
+rmin
+}
+
+STRING 445
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 446
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), effect1 (Effekt 1)
+{
+rlum
+}
+
+STRING 447
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 448
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 449
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 450
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 451
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 452
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 453
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 454
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 455
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 456
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 457
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 458
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 459
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 460
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 461
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 462
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 463
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 464
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 465
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 466
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 467
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 468
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 469
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 470
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 471
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 472
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 487
+// Einheiten: h002 (Bank), Name (Name)
+{
+Bank
+}
+
+STRING 489
+// Einheiten: h004 (Labor), Tip (Tooltipp - Einfach)
+{
+Labor errichten
+}
+
+STRING 490
+// Einheiten: h002 (Bank), Tip (Tooltipp - Einfach)
+{
+Ban|cffffcc00k|r errichten
+}
+
+STRING 491
+// Einheiten: h002 (Bank), Hotkey (Tastaturkürzel)
+{
+K
+}
+
+STRING 492
+// Einheiten: h00A (Banker), Tip (Tooltipp - Einfach)
+{
+Banker ausbilden
+}
+
+STRING 494
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 495
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 496
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 497
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 498
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 499
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 500
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 501
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 502
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 503
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 504
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 505
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 506
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 507
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 508
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 509
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 510
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 511
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 512
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 513
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Ubertip (Tooltipp - Erweitert)
+{
+Schaden Upgrade: 5 - - -  Angriffstempo Upgrade: 0.05 
+}
+
+STRING 515
+// Ausbaustufen: Rhra (Schwarzes Schießpulver,Aufbereitetes Schießpulver,Magisches Schießpulver), effect1 (Effekt 1)
+{
+ratx
+}
+
+STRING 516
+// Ausbaustufen: Rhan (Kampftierausbildung), effect2 (Effekt 2)
+{
+rhpr
+}
+
+STRING 537
+// Fähigkeiten: A00F (Einheit verkaufen), Ubertip (Tooltipp - Normal - Erweitert)
+{
+verkauft diese Einheit
+}
+
+STRING 538
+// Einheiten: h001 (Haupthaus), Tip (Tooltipp - Einfach)
+{
+Haupt|cffffcc00h|raus errichten
+}
+
+STRING 540
+// Einheiten: h00E (Meister Hütte), Name (Name)
+{
+Meister Hütte
+}
+
+STRING 544
+// Einheiten: h00E (Meister Hütte), Tip (Tooltipp - Einfach)
+{
+Meister Hütte
+}
+
+STRING 546
+// Einheiten: h00F (Helden Schmiede), Name (Name)
+{
+Helden Schmiede
+}
+
+STRING 547
+// Einheiten: n000 (Höllenbestie - -), Name (Name)
+{
+Höllenbestie - -
+}
+
+STRING 558
+// Einheiten: n003 (Händler), Name (Name)
+{
+Händler
+}
+
+STRING 559
+{
+RedConcrete
+}
+
+STRING 573
+// Fähigkeiten: A001 (Holz Abbauen), Name (Name)
+{
+Holz Abbauen
+}
+
+STRING 576
+// Einheiten: e001 (Wisp), Name (Name)
+{
+Wisp
+}
+
+STRING 577
+// Einheiten: e000 (WispCoolEfekt), Tip (Tooltipp - Einfach)
+{
+|cffffcc00w|risp ausbilden
+}
+
+STRING 581
+// Gegenstände: I00B (Sell Wood 100), Name (Name)
+{
+Sell Wood 100
+}
+
+STRING 589
+// Gegenstände: I00A (Buy Wood 100), Name (Name)
+{
+Buy Wood 100
+}
+
+STRING 592
+// Fähigkeiten: A00J (GetWood100), Name (Name)
+{
+GetWood100
+}
+
+STRING 593
+// Fähigkeiten: A006 (GetGold200), Name (Name)
+{
+GetGold200
+}
+
+STRING 594
+// Fähigkeiten: A007 (GetGold500), Name (Name)
+{
+GetGold500
+}
+
+STRING 595
+// Fähigkeiten: A00E (GetGold1000), Name (Name)
+{
+GetGold1000
+}
+
+STRING 596
+// Fähigkeiten: A00A (GetGold100), Name (Name)
+{
+GetGold100
+}
+
+STRING 600
+// Fähigkeiten: A00C (BankGold), Name (Name)
+{
+BankGold
+}
+
+STRING 602
+// Einheiten: e000 (WispCoolEfekt), Name (Name)
+{
+WispCoolEfekt
+}
+
+STRING 603
+// Einheiten: e001 (Wisp), Tip (Tooltipp - Einfach)
+{
+|cffffcc00w|risp ausbilden
+}
+
+STRING 604
+// Fähigkeiten: A00F (Einheit verkaufen), Name (Name)
+{
+Einheit verkaufen
+}
+
+STRING 640
+// Gegenstände: I00C (Sell Wood 10), Description (Beschreibung)
+{
+Gold 1000
+}
+
+STRING 641
+// Gegenstände: I002 (Sell Wood 1), Description (Beschreibung)
+{
+Gold 100
+}
+
+STRING 642
+// Gegenstände: I003 (Sell Wood 2), Description (Beschreibung)
+{
+Gold 200
+}
+
+STRING 643
+// Gegenstände: I004 (Sell Wood 5), Description (Beschreibung)
+{
+Gold 500
+}
+
+STRING 644
+// Gegenstände: I00A (Buy Wood 100), Description (Beschreibung)
+{
+Wood 100
+}
+
+STRING 651
+// Einheiten: u000 (Master), Name (Name)
+{
+Master
+}
+
+STRING 652
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 653
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 654
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 655
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 656
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 657
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 658
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 659
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 660
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 661
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 662
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 663
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 664
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 665
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 666
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 667
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 668
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 669
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 670
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 671
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 672
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 673
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 674
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 675
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 676
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 677
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 678
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 679
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 680
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 681
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 682
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 683
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 684
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 685
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 686
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 687
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 688
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 689
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 690
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 691
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 692
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 693
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 694
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 695
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 696
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 697
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 698
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 699
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 700
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 701
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 702
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 703
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 704
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 705
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 706
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 707
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 708
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 709
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 710
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 711
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 712
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 713
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 714
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 715
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 716
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 717
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 718
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 719
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 720
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 721
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 722
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 723
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 724
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 725
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 726
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 727
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 728
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 729
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 730
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 731
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 732
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 733
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 734
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 735
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 736
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 737
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 738
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 739
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 740
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 741
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 742
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 743
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 744
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 745
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 746
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 747
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 748
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 749
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 750
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 751
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 752
+{
+EconomyWar 4 Player v.1.8.5
+}
+
+STRING 753
+{
+autor: RedConcrete
+
+Destoy the Arkane vault from your enemies
+
+Commands:
+    -pause     / pause the game
+    -unpause / unpause the game
+
+
+
+}
+
+STRING 755
+// Einheiten: u001 (Ziggurat), Ubertip (Tooltipp - Erweitert)
+{
+Liefert Essen
+}
+
+STRING 756
+// Einheiten: n002 (WTF), Name (Name)
+{
+WTF
+}
+
+STRING 772
+// Fähigkeiten: A008 (GetGold2000), Name (Name)
+{
+GetGold2000
+}
+
+STRING 774
+// Fähigkeiten: A00D (BörseGold), Name (Name)
+{
+BörseGold
+}
+
+STRING 775
+// Fähigkeiten: A002 (GetGold5000), Name (Name)
+{
+GetGold5000
+}
+
+STRING 776
+// Fähigkeiten: A00G (GetGold10000), Name (Name)
+{
+GetGold10000
+}
+
+STRING 779
+// Zerstörbare Objekte: B000 (Mauer), Name (Name)
+{
+Mauer
+}
+
+STRING 780
+// Zerstörbare Objekte: B001 (Mauer), Name (Name)
+{
+Mauer
+}
+
+STRING 781
+// Zerstörbare Objekte: B002 (Tor1), Name (Name)
+{
+Tor1
+}
+
+STRING 782
+// Zerstörbare Objekte: B003 (Tor1), Name (Name)
+{
+Tor1
+}
+
+STRING 784
+// Fähigkeiten: A00L (Öffnen), Name (Name)
+{
+Öffnen
+}
+
+STRING 785
+// Fähigkeiten: A00M (Schließen), Name (Name)
+{
+Schließen
+}
+
+STRING 791
+// Fähigkeiten: A00L (Öffnen), Ubertip (Tooltipp - Normal - Erweitert)
+{
+Öffnet das Tor
+}
+
+STRING 795
+// Einheiten: n001 (Markt 100 - 500), Name (Name)
+{
+Markt 100 - 500
+}
+
+STRING 796
+// Einheiten: n005 (Markt 1000 - 10000), Name (Name)
+{
+Markt 1000 - 10000
+}
+
+STRING 801
+// Fähigkeiten: A00L (Öffnen), Hotkey (Tastaturkürzel - Normal)
+{
+O
+}
+
+STRING 803
+// Einheiten: h000 (TorhausZu), Name (Name)
+{
+TorhausZu
+}
+
+STRING 804
+// Einheiten: h00G (TorhausAuf), Name (Name)
+{
+TorhausAuf
+}
+
+STRING 805
+// Einheiten: n004 (Börse), Name (Name)
+{
+Börse
+}
+
+STRING 806
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), effect1 (Effekt 1)
+{
+ratx
+}
+
+STRING 807
+// Fähigkeiten: A00M (Schließen), Ubertip (Tooltipp - Normal - Erweitert)
+{
+Das Tor Schließen
+}
+
+STRING 808
+{
+Larko Clan
+}
+
+STRING 809
+{
+Die Alianz
+}
+
+STRING 810
+{
+Lebender Baum
+}
+
+STRING 811
+{
+Die Horde
+}
+
+STRING 814
+// Gegenstände: I001 (Sell Wood 50), Description (Beschreibung)
+{
+Gold 5000
+}
+
+STRING 826
+// Gegenstände: I00B (Sell Wood 100), Description (Beschreibung)
+{
+Gold 10000
+}
+
+STRING 829
+// Gegenstände: I00D (Sell Wood 20), Description (Beschreibung)
+{
+Gold 2000
+}
+
+STRING 831
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 832
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 833
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 834
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 835
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 836
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 837
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 838
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 839
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 840
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 841
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 842
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 843
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 844
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 845
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 846
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 847
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 848
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 849
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 850
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 851
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 852
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 853
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 854
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 855
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 856
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 857
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 858
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 859
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 860
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 861
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 862
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 863
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 864
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 865
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 866
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 867
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 868
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 869
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 870
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 871
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 872
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 873
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 874
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 875
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 876
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 877
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 878
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 879
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 880
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 881
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 882
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 883
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 884
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 885
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 886
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 887
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 888
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 889
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 890
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 891
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 892
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 893
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 894
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 895
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 896
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 897
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 898
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 899
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 900
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 901
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 902
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 903
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 904
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 905
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 906
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 907
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 908
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 909
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 910
+// Ausbaustufen: R000 (Plündern erforschen), Tip (Tooltipp)
+{
+Upgrade der Goldgewinnung
+}
+
+STRING 911
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 912
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 913
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 914
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 915
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 916
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 917
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 918
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 919
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 920
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 921
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 922
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 923
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 924
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 925
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 926
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 927
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 928
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 929
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 930
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 931
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 932
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 933
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 934
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 935
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 936
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 937
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 938
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 939
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 940
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 941
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 942
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 943
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 944
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 945
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 946
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 947
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 948
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 949
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 950
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 951
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 952
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 953
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 954
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 955
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 956
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 957
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 958
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 959
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 960
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 961
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 962
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 963
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 964
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 965
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 966
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 967
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 968
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 969
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 970
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 971
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 972
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 973
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 974
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 975
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 976
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 977
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 978
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 979
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 980
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 981
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 982
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 983
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 984
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 985
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 986
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 987
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 988
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 989
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 990
+// Ausbaustufen: R000 (Plündern erforschen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Gold per 2 sec
+}
+
+STRING 991
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 992
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 993
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 994
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 995
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 996
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 997
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 998
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 999
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1000
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1001
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1002
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1003
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1004
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1005
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1006
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1007
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1008
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1009
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1010
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1011
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1012
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1013
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1014
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1015
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1016
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1017
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1018
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1019
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1020
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1021
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1022
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1023
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1024
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1025
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1026
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1027
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1028
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1029
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1030
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1031
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1032
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1033
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1034
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1035
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1036
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1037
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1038
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1039
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1040
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1041
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1042
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1043
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1044
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1045
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1046
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1047
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1048
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1049
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1050
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1051
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1052
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1053
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1054
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1055
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1056
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1057
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1058
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1059
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1060
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1061
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1062
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1063
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1064
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1065
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1066
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1067
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1068
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1069
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1070
+// Ausbaustufen: R000 (Plündern erforschen), Hotkey (Tastaturkürzel)
+{
+E
+}
+
+STRING 1071
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1072
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1073
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1074
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1075
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1076
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1077
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1078
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1079
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1080
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1081
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1082
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1083
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1084
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1085
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1086
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1087
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1088
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1089
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1090
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1091
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1092
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1093
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1094
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1095
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1096
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1097
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1098
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1099
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1100
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1101
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1102
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1103
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1104
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1105
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1106
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1107
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1108
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1109
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1110
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1111
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1112
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1113
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1114
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1115
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1116
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1117
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1118
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1119
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1120
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1121
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1122
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1123
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1124
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1125
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1126
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1127
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1128
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1129
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1130
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1131
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1132
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1133
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1134
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1135
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1136
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1137
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1138
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1139
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1140
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1141
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1142
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1143
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1144
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1145
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1146
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1147
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1148
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1149
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1150
+// Ausbaustufen: R000 (Plündern erforschen), Name (Name)
+{
+Goldgewinnung +
+}
+
+STRING 1151
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1152
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1153
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1154
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1155
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1156
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1157
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1158
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1159
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1160
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1161
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1162
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1163
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1164
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1165
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1166
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1167
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1168
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1169
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1170
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1171
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1172
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1173
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1174
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1175
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1176
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1177
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1178
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1179
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1180
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1181
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1182
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1183
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1184
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1185
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1186
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1187
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1188
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1189
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1190
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1191
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1192
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1193
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1194
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1195
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1196
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1197
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1198
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1199
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1200
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1201
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1202
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1203
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1204
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1205
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1206
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1207
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1208
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1209
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1210
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1211
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1212
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1213
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1214
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1215
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1216
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1217
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1218
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1219
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1220
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1221
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1222
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1223
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1224
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1225
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1226
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1227
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1228
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1229
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1230
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Name (Name)
+{
+Holzgewinnung +
+}
+
+STRING 1231
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1232
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1233
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1234
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1235
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1236
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1237
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1238
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1239
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1240
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1241
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1242
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1243
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1244
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1245
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1246
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1247
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1248
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1249
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1250
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1251
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1252
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1253
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1254
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1255
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1256
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1257
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1258
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1259
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1260
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1261
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1262
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1263
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1264
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1265
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1266
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1267
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1268
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1269
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1270
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1271
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1272
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1273
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1274
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1275
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1276
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1277
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1278
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1279
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1280
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1281
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1282
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1283
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1284
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1285
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1286
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1287
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1288
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1289
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1290
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1291
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1292
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1293
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1294
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1295
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1296
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1297
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1298
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1299
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1300
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1301
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1302
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1303
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1304
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1305
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1306
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1307
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1308
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1309
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1310
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Hotkey (Tastaturkürzel)
+{
+N
+}
+
+STRING 1311
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1312
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1313
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1314
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1315
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1316
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1317
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1318
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1319
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1320
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1321
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1322
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1323
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1324
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1325
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1326
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1327
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1328
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1329
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1330
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1331
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1332
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1333
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1334
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1335
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1336
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1337
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1338
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1339
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1340
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1341
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1342
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1343
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1344
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1345
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1346
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1347
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1348
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1349
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1350
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1351
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1352
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1353
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1354
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1355
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1356
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1357
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1358
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1359
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1360
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1361
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1362
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1363
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1364
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1365
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1366
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1367
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1368
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1369
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1370
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1371
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1372
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1373
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1374
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1375
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1376
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1377
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1378
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1379
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1380
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1381
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1382
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1383
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1384
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1385
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1386
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1387
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1388
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1389
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1390
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Tip (Tooltipp)
+{
+Upgrade der Holzgewinnung
+}
+
+STRING 1391
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1392
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1393
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1394
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1395
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1396
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1397
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1398
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1399
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1400
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1401
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1402
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1403
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1404
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1405
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1406
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1407
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1408
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1409
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1410
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1411
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1412
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1413
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1414
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1415
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1416
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1417
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1418
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1419
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1420
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1421
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1422
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1423
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1424
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1425
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1426
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1427
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1428
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1429
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1430
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1431
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1432
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1433
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1434
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1435
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1436
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1437
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1438
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1439
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1440
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1441
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1442
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1443
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1444
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1445
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1446
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1447
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1448
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1449
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1450
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1451
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1452
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1453
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1454
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1455
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1456
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1457
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1458
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1459
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1460
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1461
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1462
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1463
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1464
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1465
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1466
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1467
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1468
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1469
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1470
+// Ausbaustufen: R001 (Stahl-Nahkampfwaffen,Thorium-Nahkampfwaffen,Arkanit-Nahkampfwaffen), Ubertip (Tooltipp - Erweitert)
+{
++ 10 Wood per 2 sec
+}
+
+STRING 1471
+// Ausbaustufen: Rhan (Kampftierausbildung), Tip (Tooltipp)
+{
+TP +100 & Reg 0.10%
+}
+
+STRING 1472
+// Ausbaustufen: Rhan (Kampftierausbildung), Tip (Tooltipp)
+{
+TP +100 & Reg 0.10%
+}
+
+STRING 1473
+// Ausbaustufen: Rhan (Kampftierausbildung), Tip (Tooltipp)
+{
+TP +100 & Reg 0.10%
+}
+
+STRING 1474
+// Ausbaustufen: Rhan (Kampftierausbildung), Tip (Tooltipp)
+{
+TP +100 & Reg 0.10%
+}
+
+STRING 1475
+// Ausbaustufen: Rhan (Kampftierausbildung), Tip (Tooltipp)
+{
+TP +100 & Reg 0.10%
+}
+
+STRING 1476
+// Ausbaustufen: Rhan (Kampftierausbildung), Name (Name)
+{
+Heilige Aura
+}
+
+STRING 1477
+// Ausbaustufen: Rhan (Kampftierausbildung), Name (Name)
+{
+Heilige Aura
+}
+
+STRING 1478
+// Ausbaustufen: Rhan (Kampftierausbildung), Name (Name)
+{
+Heilige Aura
+}
+
+STRING 1479
+// Ausbaustufen: Rhan (Kampftierausbildung), Name (Name)
+{
+Heilige Aura
+}
+
+STRING 1480
+// Ausbaustufen: Rhan (Kampftierausbildung), Name (Name)
+{
+Heilige Aura
+}
+
+STRING 1481
+// Ausbaustufen: Rhan (Kampftierausbildung), Hotkey (Tastaturkürzel)
+{
+H
+}
+
+STRING 1482
+// Ausbaustufen: Rhan (Kampftierausbildung), Hotkey (Tastaturkürzel)
+{
+H
+}
+
+STRING 1483
+// Ausbaustufen: Rhan (Kampftierausbildung), Hotkey (Tastaturkürzel)
+{
+H
+}
+
+STRING 1484
+// Ausbaustufen: Rhan (Kampftierausbildung), Hotkey (Tastaturkürzel)
+{
+H
+}
+
+STRING 1485
+// Ausbaustufen: Rhan (Kampftierausbildung), Hotkey (Tastaturkürzel)
+{
+H
+}
+
+STRING 1486
+// Ausbaustufen: Rhan (Kampftierausbildung), Tip (Tooltipp)
+{
+TP +100 & Reg 0.10%
+}
+
+STRING 1487
+// Ausbaustufen: Rhan (Kampftierausbildung), Tip (Tooltipp)
+{
+TP +100 & Reg 0.10%
+}
+
+STRING 1488
+// Ausbaustufen: Rhan (Kampftierausbildung), Tip (Tooltipp)
+{
+TP +100 & Reg 0.10%
+}
+
+STRING 1489
+// Ausbaustufen: Rhan (Kampftierausbildung), Tip (Tooltipp)
+{
+TP +100 & Reg 0.10%
+}
+
+STRING 1490
+// Ausbaustufen: Rhan (Kampftierausbildung), Tip (Tooltipp)
+{
+TP +100 & Reg 0.10%
+}
+
+STRING 1491
+// Ausbaustufen: Rhan (Kampftierausbildung), Ubertip (Tooltipp - Erweitert)
+{
+Die MACHT ist mit dir 
+}
+
+STRING 1492
+// Ausbaustufen: Rhan (Kampftierausbildung), Ubertip (Tooltipp - Erweitert)
+{
+Die MACHT ist mit dir 
+}
+
+STRING 1493
+// Ausbaustufen: Rhan (Kampftierausbildung), Ubertip (Tooltipp - Erweitert)
+{
+Die MACHT ist mit dir 
+}
+
+STRING 1494
+// Ausbaustufen: Rhan (Kampftierausbildung), Ubertip (Tooltipp - Erweitert)
+{
+Die MACHT ist mit dir 
+}
+
+STRING 1495
+// Ausbaustufen: Rhan (Kampftierausbildung), Ubertip (Tooltipp - Erweitert)
+{
+Die MACHT ist mit dir 
+}
+
+STRING 1496
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1497
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1498
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1499
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1500
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1501
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1502
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1503
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1504
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1505
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1506
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1507
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1508
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1509
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1510
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1511
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1512
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1513
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1514
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1515
+// Ausbaustufen: Rhme (Eisen-Schwerter,Stahl-Schwerter,Mithril-Schwerter), Tip (Tooltipp)
+{
+Schaden Upgrade
+}
+
+STRING 1526
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Ubertip (Tooltipp - Erweitert)
+{
++ 5 Schaden 
+}
+
+STRING 1527
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Ubertip (Tooltipp - Erweitert)
+{
++ 5 Schaden 
+}
+
+STRING 1528
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Ubertip (Tooltipp - Erweitert)
+{
++ 5 Schaden 
+}
+
+STRING 1529
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Ubertip (Tooltipp - Erweitert)
+{
++ 5 Schaden 
+}
+
+STRING 1530
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Ubertip (Tooltipp - Erweitert)
+{
++ 5 Schaden 
+}
+
+STRING 1531
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Ubertip (Tooltipp - Erweitert)
+{
++ 5 Schaden 
+}
+
+STRING 1532
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Ubertip (Tooltipp - Erweitert)
+{
++ 5 Schaden 
+}
+
+STRING 1533
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Ubertip (Tooltipp - Erweitert)
+{
++ 5 Schaden 
+}
+
+STRING 1534
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Ubertip (Tooltipp - Erweitert)
+{
++ 5 Schaden 
+}
+
+STRING 1535
+// Ausbaustufen: Rhfs (Schrapnell-Splitter), Ubertip (Tooltipp - Erweitert)
+{
++ 5 Schaden 
+}
+
+STRING 1536
+// Einheiten: h00B (Pionier), Ubertip (Tooltipp - Erweitert)
+{
+Diese Einheit kann Ziggurats und Türme bauen 
+}
+
+STRING 1537
+// Einheiten: h00B (Pionier), Hotkey (Tastaturkürzel)
+{
+P
+}
+
+STRING 1538
+// Gegenstände: I000 (Buy Wood 20), Name (Name)
+{
+Buy Wood 20
+}
+
+STRING 1539
+// Gegenstände: I000 (Buy Wood 20), Description (Beschreibung)
+{
+Wood 20
+}
+
+STRING 1540
+// Gegenstände: I000 (Buy Wood 20), Ubertip (Tooltipp - Erweitert)
+{
+2000 Gold für 20 Holz
+}
+
+STRING 1541
+// Gegenstände: I002 (Sell Wood 1), Name (Name)
+{
+Sell Wood 1
+}
+
+STRING 1542
+// Gegenstände: I002 (Sell Wood 1), Ubertip (Tooltipp - Erweitert)
+{
+1 Holz für 100 Gold
+}
+
+STRING 1543
+// Gegenstände: I003 (Sell Wood 2), Name (Name)
+{
+Sell Wood 2
+}
+
+STRING 1544
+// Gegenstände: I003 (Sell Wood 2), Ubertip (Tooltipp - Erweitert)
+{
+2 Holz für 200 Gold
+}
+
+STRING 1545
+// Gegenstände: I005 (Buy Wood 1), Name (Name)
+{
+Buy Wood 1
+}
+
+STRING 1546
+// Gegenstände: I005 (Buy Wood 1), Description (Beschreibung)
+{
+Wood 1
+}
+
+STRING 1547
+// Gegenstände: I005 (Buy Wood 1), Ubertip (Tooltipp - Erweitert)
+{
+100 Gold für 1 Holz
+}
+
+STRING 1548
+// Gegenstände: I006 (Buy Wood 5), Name (Name)
+{
+Buy Wood 5
+}
+
+STRING 1549
+// Gegenstände: I006 (Buy Wood 5), Description (Beschreibung)
+{
+Wood 5
+}
+
+STRING 1550
+// Gegenstände: I006 (Buy Wood 5), Ubertip (Tooltipp - Erweitert)
+{
+500 Gold für 50 Holz
+}
+
+STRING 1551
+// Gegenstände: I007 (Buy Wood 2), Name (Name)
+{
+Buy Wood 2
+}
+
+STRING 1552
+// Gegenstände: I007 (Buy Wood 2), Description (Beschreibung)
+{
+Wood 2
+}
+
+STRING 1553
+// Gegenstände: I007 (Buy Wood 2), Ubertip (Tooltipp - Erweitert)
+{
+200 Gold für 2 Holz
+}
+
+STRING 1554
+// Gegenstände: I008 (Buy Wood 10), Name (Name)
+{
+Buy Wood 10
+}
+
+STRING 1555
+// Gegenstände: I008 (Buy Wood 10), Description (Beschreibung)
+{
+Wood 10
+}
+
+STRING 1556
+// Gegenstände: I008 (Buy Wood 10), Ubertip (Tooltipp - Erweitert)
+{
+1000 Gold für 10 Holz
+}
+
+STRING 1557
+// Gegenstände: I009 (Buy Wood 50), Name (Name)
+{
+Buy Wood 50
+}
+
+STRING 1558
+// Gegenstände: I009 (Buy Wood 50), Description (Beschreibung)
+{
+Wood 50
+}
+
+STRING 1559
+// Gegenstände: I009 (Buy Wood 50), Ubertip (Tooltipp - Erweitert)
+{
+5000 Gold für 50 Holz
+}
+
+STRING 1560
+// Gegenstände: I00A (Buy Wood 100), Ubertip (Tooltipp - Erweitert)
+{
+10000 Gold für 100 Holz
+}
+
+STRING 1561
+// Gegenstände: I00B (Sell Wood 100), Ubertip (Tooltipp - Erweitert)
+{
+100 Holz für 10000 Gold
+}
+
+STRING 1562
+// Gegenstände: I00C (Sell Wood 10), Name (Name)
+{
+Sell Wood 10
+}
+
+STRING 1563
+// Gegenstände: I00C (Sell Wood 10), Ubertip (Tooltipp - Erweitert)
+{
+10 Holz für 1000 Gold
+}
+
+STRING 1564
+// Gegenstände: I00D (Sell Wood 20), Name (Name)
+{
+Sell Wood 20
+}
+
+STRING 1565
+// Gegenstände: I00D (Sell Wood 20), Ubertip (Tooltipp - Erweitert)
+{
+20 Holz für 2000 Gold
+}
+
+STRING 1566
+// Fähigkeiten: A004 (GetWood1), Name (Name)
+{
+GetWood1
+}
+
+STRING 1567
+// Fähigkeiten: A003 (GetWood2), Name (Name)
+{
+GetWood2
+}
+
+STRING 1568
+// Fähigkeiten: A009 (GetWood5), Name (Name)
+{
+GetWood5
+}
+
+STRING 1569
+// Fähigkeiten: A00B (GetWood50), Name (Name)
+{
+GetWood50
+}
+
+STRING 1570
+// Fähigkeiten: A00H (GetWood10), Name (Name)
+{
+GetWood10
+}
+
+STRING 1571
+// Fähigkeiten: A00I (GetWood20), Name (Name)
+{
+GetWood20
+}
+
+STRING 1572
+// Ausbaustufen: Rhla (Beschlagene Lederrüstung,Verstärkte Lederrüstung,Drachenhaut-Rüstung), effect2 (Effekt 2)
+{
+rspi
+}
+
+STRING 1573
+// Gegenstände: I001 (Sell Wood 50), Name (Name)
+{
+Sell Wood 50
+}
+
+STRING 1574
+// Gegenstände: I001 (Sell Wood 50), Ubertip (Tooltipp - Erweitert)
+{
+50 Holz für 5000 Gold
+}
+
+STRING 1575
+// Gegenstände: I004 (Sell Wood 5), Name (Name)
+{
+Sell Wood 5
+}
+
+STRING 1576
+// Gegenstände: I004 (Sell Wood 5), Ubertip (Tooltipp - Erweitert)
+{
+5 Holz für 500 Gold
+}
+
